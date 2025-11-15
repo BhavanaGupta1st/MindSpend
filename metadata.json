@@ -1,0 +1,7 @@
+{
+  "name": "Copy of MindSpend AI",
+  "description": "A conversational budgeting web app with AI-powered insights. Log expenses with your voice, scan receipts, analyze emotional spending, and simulate financial scenarios to achieve your goals.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
